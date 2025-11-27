@@ -2,7 +2,6 @@ from dataset import TikTokDataset
 from model import PMMKD
 
 
-
 if __name__ == '__main__':
     # Configuration
     config = {
